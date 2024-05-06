@@ -2,3 +2,13 @@ h1{
     color:blue;
     text-align: center;
 }
+
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+
+p{
+    text-align: center;
+    color: red;
+}
